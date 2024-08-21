@@ -103,7 +103,7 @@ export default {
         {
           "callsign": "Echo",
           "alias": "Charlie",
-          "code": "5sQq40-ZNf50-KOU-uZm-XXFSe///MSMC-A-LOCAL-TEAM-EPSILON//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "code": "5sQq40-ZNf50-KOU-uZm-XXFSe///MSMC-A-LOCAL-TEAM-EPSILON//4f89-bcd9-501464e960da",
           "corpro": "GMS",
           "frame": "Everest-XV86",
           "mech": "Gory Gory"
@@ -111,7 +111,7 @@ export default {
         {
           "callsign": "Lizard",
           "alias": "Ulysses de Goya",
-          "code": "B4QH6F-UGAM9-cgC-eLY-rZqQ9///MSMC-B-LOCAL-TEAM-EPSILON//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "code": "B4QH6F-UGAM9-cgC-eLY-rZqQ9///MSMC-B-LOCAL-TEAM-EPSILON//4f89-bcd9-501464e960da",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Hovel"
@@ -119,7 +119,7 @@ export default {
         {
           "callsign": "Jack",
           "alias": "Slader Volstok",
-          "code": "H3kLBd-Xgkmv-XLl-wmW-6DthU///MSMC-C-LOCAL-TEAM-EPSILON///056940c6-8d55-4190-8e85-57caa043cb1a",
+          "code": "H3kLBd-Xgkmv-XLl-wmW-6DthU///MSMC-C-LOCAL-TEAM-EPSILON///4f89-bcd9-501464e960da",
           "corpro": "GMS",
           "frame": "Everest-7274",
           "mech": "74"
