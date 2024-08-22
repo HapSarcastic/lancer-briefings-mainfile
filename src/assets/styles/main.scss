@@ -92,7 +92,7 @@ $text-markdown-h2: rgba(255, 255, 255, 0.87);
 }
 
 body {
-  overflow: hidden !important;
+  overflow: visible !important;
 }
 
 header {
@@ -829,10 +829,4 @@ div.markdown {
   padding-top: 1em;
   padding-bottom: 1em;
   border-bottom: none;
-}
-
-@media only screen and (max-width: 1280px) {
-  body {
-    transform: scale(0.75);
-  }
 }
