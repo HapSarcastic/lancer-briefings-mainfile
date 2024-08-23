@@ -1,3 +1,4 @@
+`IOMETRIC RECORD VALIDATED [[16.92PB]]`
 `Omninet IP Access Record :: HYC 00 EG 480.0.92.3 [08.04.5014u]` 
 
 ## Pilot Dossier //.
@@ -14,10 +15,10 @@
 
 Hails from Pollux* in the Sierra Madre line. Born under Pollux’s now defunct ‘Population Maintainance Program’ to unknown donors. Fostered with others from the program by Hamza Ortiz. He has no known religious, exopolitical, or organisational affiliations. Studied at Punta Caridad Facultad de Metafísica in its undergraduate coding program. Achieved acceptable grades. Previously worked for the Wicker-Mulligan Corporate Surveyorship as a ‘Cyber Security Engineer’. He claims to have terminated his contract voluntarily. This has yet to be confirmed. 
 
-**[UPDATE]** &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;
+**[UPDATE]** 
+&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;
 &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;
-&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;
-&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;
+&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;
 
 **Independent. Union status pending.*
 
@@ -25,7 +26,7 @@ Hails from Pollux* in the Sierra Madre line. Born under Pollux’s now defunct �
 
 - Showed high aptitude for tech combat in training and adapted to the complexities of mech operation quickly. Approved for 'lancer' class misions. Training period: 1uy.
 - Demonstrates poor physical and leadership capabilities. See incident log #1. Recommended to be assigned with experienced pilots.
-- Was first to spot a surprised HOURS mech on mission #AR685. Lead pilot reported improved communication and good marksmanship.
+- Was first to spot a surprise HOURS mech on mission #AR685. Lead pilot reported improved communication and good marksmanship.
 
 **View Capability Audit >>**
 

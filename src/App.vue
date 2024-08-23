@@ -111,7 +111,7 @@ export default {
         {
           "callsign": "Lizard",
           "alias": "Ulysses de Goya",
-          "code": "Union RM-4 IDENT Record: 3365dcd6-81d7-4b0b-877c-0588fc826346 IOMETRIC RECORD VALID [[16.92PB]] :: OHM C//5024-08-21T20:42:31.158Z",
+          "code": "Union RM-4 IDENT Record: 3365dcd6-81d7-4b0b-877c-0588fc826346       ISOMETRICS VERIFY :: OHM C//5024-08-21T20:42:31.158Z",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Hovel"
