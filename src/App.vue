@@ -111,7 +111,7 @@ export default {
         {
           "callsign": "Lizard",
           "alias": "Ulysses de Goya",
-          "code": "B4QH6F-UGAM9-cgC-eLY-rZqQ9///MSMC-B-LOCAL-TEAM-EPSILON//4f89-bcd9-501464e960da",
+          "code": "Union RM-4 IDENT Record 3365dcd6-81d7-4b0b-877c-0588fc826346",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Hovel"
