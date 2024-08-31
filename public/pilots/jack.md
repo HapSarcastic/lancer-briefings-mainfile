@@ -1,1 +1,8 @@
-Jack's backstory goes here
+**CASEFILE 7274: Slader Volstock C/S: Jack**
+
+Jack was born on the Cradle at, 7:34 AM Local time 01/22/-REDACTED-. He is currently 60 biological years old. Jack was one of the Union's first pilots, starting training at 18 after passing an ASVAB and physical exam with flying colors. He went into his first cryosleep at 20 years old. He ran point on at least 12 known exploratory rim world expeditions and saw first hand the expansion of Union borders. After an accident on -REDACTED- he was the sole survivor of his fireteam and shortly thereafter allowed his contract to expire. After his contract's expiration the Union was no longer the sole source of work for pilots and his record becomes hard to track, but given his extraordinary age local time, he was most likely employed the entire time. About 5 years ago he joined our organization and has been an asset since. His personality can be a bit much to work with but he’s never lost a comrade in the line of duty. A rare feat in this line of work. 
+
+- Jacks a rather tight lipped guy, but a bottle of whiskey and a sharing attitude is a sure fire way to get him to loosen up
+- Jack shares a tight relationship with his mech, says him and 74 go way back, if you need him to get his head out of his ass appealing to 74 is your best bet. He won’t listen to many others
+- Jack takes great pride in being prepared, especially when it helps his fireteam get out of a bind. DO NOT question his loadout unless you’re ready for a minimum 30 minute incredibly condescending lecture
+- If you spend long enough with Jack you will most likely come to find that he is a huge softy at heart, the man wouldn’t hurt a fly as long as it’s not in his contract to do so. He’s got an especially soft spot for his fireteam. DO NOT UNDER ANY CIRCUMSTANCES let him know that you know this about him, he will teach you.
