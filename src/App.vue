@@ -109,7 +109,7 @@ export default {
           "status": "partial-success"
         },
       ],
-       "mission_slug": "002-a",
+      "mission_slug": "002-a",
       "current_md": "",
       "events": "002-a",
       "missions": [
