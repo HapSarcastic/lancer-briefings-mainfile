@@ -99,6 +99,26 @@ export default {
           "status": "success"
         },
       ],
+      "mission_slug": "001-b",
+      "current_md": "",
+      "events": "001-b",
+      "missions": [
+        {
+          "slug": "001-b",
+          "name": "The Horde",
+          "status": "partial-success"
+        },
+      ],
+       "mission_slug": "002-a",
+      "current_md": "",
+      "events": "002-a",
+      "missions": [
+        {
+          "slug": "002-a",
+          "name": "Night Strike",
+          "status": "start"
+        },
+      ],      
       "pilots": [
         {
           "callsign": "Echo",
