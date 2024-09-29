@@ -89,17 +89,17 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001-a",
+      "mission_slug": "001",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "001-a",
+          "slug": "001a",
           "name": "Trapdoor Spider",
           "status": "success"
         },
       ],
-      "mission_slug": "001-b",
+      "mission_slug": "001b",
       "current_md": "",
       "events": "",
       "missions": [
@@ -109,12 +109,12 @@ export default {
           "status": "partial-success"
         },
       ],
-      "mission_slug": "002-a",
+      "mission_slug": "002",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "002-a",
+          "slug": "002a",
           "name": "Night Strike",
           "status": "start"
         },
