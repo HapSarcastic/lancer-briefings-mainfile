@@ -94,18 +94,28 @@ export default {
       "events": "",
       "missions": [
         {
-          "slug": "001a",
+          "slug": "001-a",
           "name": "Trapdoor Spider",
           "status": "success"
         },
         {
-          "slug": "001b",
+          "slug": "001-b",
           "name": "The Horde",
           "status": "partial-success"
         },
         {
-          "slug": "002a",
+          "slug": "002-a",
           "name": "Night Strike",
+          "status": "success"
+        },
+        {
+          "slug": "002-b",
+          "name": "Reactor Defense",
+          "status": "success"
+        },
+        {
+          "slug": "002-c",
+          "name": "REGRET",
           "status": "success"
         },
       ],    
