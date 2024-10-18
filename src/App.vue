@@ -89,7 +89,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001a",
+      "mission_slug": "002a",
       "current_md": "",
       "events": "",
       "missions": [
@@ -98,27 +98,17 @@ export default {
           "name": "Trapdoor Spider",
           "status": "success"
         },
-      ],
-      "mission_slug": "001b",
-      "current_md": "",
-      "events": "",
-      "missions": [
         {
-          "slug": "001-b",
+          "slug": "001b",
           "name": "The Horde",
           "status": "partial-success"
         },
-      ],
-      "mission_slug": "002a",
-      "current_md": "",
-      "events": "",
-      "missions": [
         {
           "slug": "002a",
           "name": "Night Strike",
-          "status": "start"
+          "status": "success"
         },
-      ],      
+      ],    
       "pilots": [
         {
           "callsign": "Echo",
