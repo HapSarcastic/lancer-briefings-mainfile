@@ -118,6 +118,11 @@ export default {
           "name": "REGRET",
           "status": "success"
         },
+        {
+          "slug": "003-a",
+          "name": "?",
+          "status": "start"
+        },
       ],    
       "pilots": [
         {
