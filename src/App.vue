@@ -129,24 +129,24 @@ export default {
           "callsign": "Echo",
           "alias": "Charlie",
           "code": "5sQq40-ZNf50-KOU-uZm-XXFSe///MSMC-A-LOCAL-TEAM-EPSILON//4f89-bcd9-501464e960da",
-          "corpro": "GMS",
-          "frame": "Everest-XV86",
+          "corpro": "HA",
+          "frame": "Genghis Mk-II",
           "mech": "Gory Gory"
         },
         {
           "callsign": "Lizard",
           "alias": "Ulysses de Goya",
           "code": "Union RM-4 IDENT Record: 3365dcd6-81d7-4b0b-877c-0588fc826346       iSOMETRICS: OHM C//5024-08-21T20:42:31.158Z",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Hovel"
+          "corpro": "SSC",
+          "frame": "Death's Head",
+          "mech": "No Secrets"
         },
         {
           "callsign": "Jack",
           "alias": "Slader Volstok",
           "code": "H3kLBd-Xgkmv-XLl-wmW-6DthU///MSMC-C-LOCAL-TEAM-EPSILON///4f89-bcd9-501464e960da",
-          "corpro": "GMS",
-          "frame": "Everest-7274",
+          "corpro": "SSC",
+          "frame": "Mourning Cloak",
           "mech": "74"
         },
       ],
