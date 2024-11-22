@@ -120,8 +120,20 @@ export default {
         },
         {
           "slug": "003-a",
-          "name": "?",
-          "status": "start"
+          "name": "Sepulcher",
+          "status": "success"
+        },
+        { "slug": "003-b",
+          "name": "London Bridge",
+          "status": "success"
+        },
+        { "slug": "003-c",
+          "name": "Operation: Rematch",
+          "status": "success"
+        },
+        { "slug": "003-d",
+          "name": "Roadblock",
+          "status": "partial-success"
         },
       ],    
       "pilots": [
@@ -130,8 +142,8 @@ export default {
           "alias": "Charlie",
           "code": "5sQq40-ZNf50-KOU-uZm-XXFSe///MSMC-A-LOCAL-TEAM-EPSILON//4f89-bcd9-501464e960da",
           "corpro": "HA",
-          "frame": "Genghis Mk-II",
-          "mech": "Gory Gory"
+          "frame": "Genghis MK II - 451",
+          "mech": "RAID"
         },
         {
           "callsign": "Lizard",
@@ -147,7 +159,7 @@ export default {
           "code": "H3kLBd-Xgkmv-XLl-wmW-6DthU///MSMC-C-LOCAL-TEAM-EPSILON///4f89-bcd9-501464e960da",
           "corpro": "SSC",
           "frame": "Mourning Cloak",
-          "mech": "74"
+          "mech": "Ronin"
         },
       ],
       "header": {
