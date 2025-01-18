@@ -136,7 +136,7 @@ export default {
           "status": "success"
         },
         { "slug": "004-a",
-          "name": "Roadblock",
+          "name": "Annelida",
           "status": "success"
         },
         { "slug": "004-b",
@@ -144,11 +144,23 @@ export default {
           "status": "success"
         },
         { "slug": "004-c",
-          "name": "Roadblock",
+          "name": "Abaddon",
           "status": "success"
         },
         { "slug": "005-a",
-          "name": "ID NOT FOUND",
+          "name": "Tactical Logic",
+          "status": "start"
+        },
+        { "slug": "005-b",
+          "name": "Walk Softly",
+          "status": "start"
+        },
+        { "slug": "005-c",
+          "name": "The Attic of the World",
+          "status": "start"
+        },
+        { "slug": "005-d",
+          "name": "Split-Knuckle Haymaker",
           "status": "start"
         },
       ],    
