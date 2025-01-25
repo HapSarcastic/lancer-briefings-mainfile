@@ -149,11 +149,11 @@ export default {
         },
         { "slug": "005-a",
           "name": "Tactical Logic",
-          "status": "start"
+          "status": "success"
         },
         { "slug": "005-b",
-          "name": "Walk Softly",
-          "status": "start"
+          "name": "Tonight There's Gonna be a Prison Break",
+          "status": "partial-success"
         },
         { "slug": "005-c",
           "name": "The Attic of the World",
