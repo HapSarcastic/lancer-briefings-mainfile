@@ -153,13 +153,21 @@ export default {
         },
         { "slug": "005-b",
           "name": "Tonight There's Gonna be a Prison Break",
-          "status": "partial-success"
+          "status": "success"
         },
         { "slug": "005-c",
-          "name": "The Attic of the World",
-          "status": "start"
+          "name": "Quiet Night",
+          "status": "success"
         },
         { "slug": "005-d",
+          "name": "Hitchhikers and Stays",
+          "status": "start"
+        },
+        { "slug": "005-e",
+          "name": "Attic of the World",
+          "status": "start"
+        },
+        { "slug": "005-f",
           "name": "Split-Knuckle Haymaker",
           "status": "start"
         },
