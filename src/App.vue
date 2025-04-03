@@ -161,15 +161,15 @@ export default {
         },
         { "slug": "005-d",
           "name": "Hitchhikers and Stays",
-          "status": "start"
+          "status": "success"
         },
         { "slug": "005-e",
           "name": "Attic of the World",
-          "status": "start"
+          "status": "success"
         },
         { "slug": "005-f",
           "name": "Split-Knuckle Haymaker",
-          "status": "start"
+          "status": "success"
         },
       ],    
       "pilots": [
